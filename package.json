@@ -13,6 +13,7 @@
     "build:content": "contentlayer2 build"
   },
   "dependencies": {
+    "@next/third-parties": "^15.2.1",
     "babel-plugin-react-compiler": "^19.0.0-beta-e1e972c-20250221",
     "blog": "file:",
     "date-fns": "^4.1.0",
